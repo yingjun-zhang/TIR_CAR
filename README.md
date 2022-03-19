@@ -10,7 +10,7 @@ The labeling method shown in the figure is used: the entire body and the rear he
 ![figure5](https://user-images.githubusercontent.com/52853099/159113535-97778673-8c3b-4f80-b064-e7e46a8e182d.png)
 
 For hybrid cars, determine which category they belong to based on the type of drive system when they are imaged. The picture below is a hybrid car, which is labeled as a fuel car.
-<img width="419" alt="figure6" src="https://user-images.githubusercontent.com/52853099/159113997-fc02818b-4b34-4a8f-9862-9640988c5861.png">
+<img width="419" alt="figure6" src="https://user-images.githubusercontent.com/52853099/159114056-14d5c093-8dd9-408d-bfce-6ca0d85c9652.png">
 
 The dataset contains more than 3000 images, about 7000 fuel cars and 3500 electric cars.
 <img width="588" alt="figure9" src="https://user-images.githubusercontent.com/52853099/159114010-1112d416-8670-47c0-8fb7-d48f6aca145e.png">
