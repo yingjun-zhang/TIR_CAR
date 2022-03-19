@@ -22,3 +22,5 @@ Experiment result is shown below, trained using YOLOv5.
 ![figure12](https://user-images.githubusercontent.com/52853099/159113805-2524a150-d162-4178-88cf-af9ff64575c2.png)
 
 The dataset is avaliable from Google drive:https://drive.google.com/drive/folders/1S2VLrD8l39EkPtZNuhxCkTn_qFm_QteK?usp=sharing
+
+The paper is avaliable in:https://www.tandfonline.com/eprint/6WYC4NUMXC28HXC5RIXJ/full?target=10.1080/01431161.2021.1978586
