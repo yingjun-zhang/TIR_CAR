@@ -24,3 +24,5 @@ Experiment result is shown below, trained using YOLOv5.
 The dataset is avaliable from Google drive:https://drive.google.com/drive/folders/1S2VLrD8l39EkPtZNuhxCkTn_qFm_QteK?usp=sharing
 
 The paper is avaliable in:https://www.tandfonline.com/eprint/6WYC4NUMXC28HXC5RIXJ/full?target=10.1080/01431161.2021.1978586
+
+Contact: zhang_yj@whu.edu.cn
